@@ -1,2 +1,2 @@
 Hello this is line1
-A new line
+A new line from remote repo edited
